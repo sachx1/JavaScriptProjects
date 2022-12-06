@@ -1,7 +1,5 @@
 <h1> React JavaScript Projects </h1>
-<br/>
 <h4> I am using the knowledge gained from courses taken on Udemy on React and creating full single page applications which are mobile ready </h4>
-<br/>
 
 <h2> GPT App </h2>
 
